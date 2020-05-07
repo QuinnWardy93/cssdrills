@@ -1,0 +1,79 @@
+body {
+    font-family: 'Courier New', Courier, monospace;   
+background-color: lightgray;
+}
+h2 , p , .readme-wrapper {
+    text-align: center;
+}
+a {
+    color: red
+}
+a:hover {
+    color: yellow;
+    font-weight: bold;
+    
+}
+span {
+    color: blue;
+    font-weight: bold;
+}
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border: 1em solid #123456;
+    border-radius: 1em;
+    width: 30em;
+    background-color: seagreen;
+    display: block;
+    
+
+}
+#box1{
+    background-color: slateblue;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: red;
+    position: relative;
+    top: 3.75em;
+    left: 3.75em;
+}
+h1 {
+    color: skyblue;
+}
+.original {
+    color: tomato;
+}
+.additional {
+    color: yellowgreen;
+}
+#show1 {
+    color: red;
+}
+#show2 {
+    color:orange;
+}
+#show3 {
+    color:yellow;
+}
+#show4 {
+    color:green;
+}
+#show5 {
+    color:blue;
+}
+ul {
+    color: red;
+}
+.star {
+    color: blue;
+}
+#wars {
+    color: green;
+}
+div {
+    border: 2px solid black;
+}
